@@ -1,0 +1,310 @@
+﻿body {
+    margin:0;
+    padding:0;
+    background-image:url(../img/theme/bg.fw.png);
+    background-repeat:repeat-x;
+}
+
+#container {
+    width:980px;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#header {
+    width:980px;
+    height:100px;
+    background-image:url(../img/theme/header_bg.fw.png);
+}
+
+#logo {
+    width:282px;
+    height:74px;
+    padding-top:15px;
+}
+
+#menu {
+    width:980px;
+    height:41px;
+    position: relative;
+}
+
+#slider {
+    width:980px;
+    height:350px;
+    position: relative;
+}
+
+#nav {
+    width:980px;
+    height:125px;
+    margin-top:15px;
+}
+
+#nav1 {
+    width:313px;
+    height:125px;
+   float:left;
+}
+
+#nav2 {
+    width:313px;
+    height:125px;
+   float:left;
+   margin-left:21px;
+}
+
+#nav3 {
+    width:313px;
+    height:125px;
+   float:left;
+   margin-left:20px;
+}
+
+#line {
+    width:980px;
+    height:16px;
+}
+
+#footer {
+    width:980px;
+    height:100px;
+    background-image:url(../img/theme/footer.fw.png);
+}
+
+#socialmedia {
+    width:31px;
+    height:32px;
+    margin-left:862px;
+    margin-top:17px;
+    float:left;
+}
+
+#socialmedia1 {
+    width:31px;
+    height:32px;
+    margin-left:4px;
+    margin-top:17px;
+    float:left;
+}
+
+#socialmedia2 {
+    width:31px;
+    height:32px;
+    margin-left:4px;
+    margin-top:17px;
+    float:left;
+}
+
+ul {
+    list-style:none;
+    font-family:Calibri;
+    color:#fff;
+    font-size:16px;
+    padding:0;
+    margin:0;
+    height: 36px;
+}
+li {
+   height:41px;
+        line-height:41px;
+        float:left;
+        margin-left:7px;
+        margin-right:7px;
+}
+
+ul li ul {
+    display:none;
+}
+
+
+ul li:hover ul {
+    display:block;
+}
+
+#border {
+    border-width: 0px;
+    text-decoration: none;
+    color:black;
+}
+.acilir {
+    position:relative;
+    z-index:1000;
+}
+
+.acilir ul {
+    position:absolute;
+    width:200px;
+    height:41px;
+}
+
+.acilir li {
+    width:186px;
+    height:41px;
+    background-color:#00AEEF;
+    line-height:41px;
+    font-family:Calibri;
+    font-size:16px;
+    color:#fff;
+    padding-left:14px;
+    margin-left:-15px;
+    border:1px solid;
+    border-color: #cecece;
+}
+
+.acilir li:hover {
+    width:186px;
+    height:41px;
+    background-color:#0b82ae;
+    line-height:41px;
+    font-family:Calibri;
+    font-size:16px;
+    color:#fff;
+    padding-left:14px;
+    margin-left:-15px;
+    border:1px solid;
+    border-color: #cecece;
+}
+
+#hover {
+    width:980px;
+    height:auto;
+}
+
+#title {
+    width:980px;
+    height:20px;
+    font-family:'Century Gothic';
+    font-size:15px;
+    line-height:20px;
+    margin-top:15px;
+    margin-bottom:10px;
+}
+
+#pic {
+    width:980px;
+    height:170px;
+    margin-bottom:10px;
+}
+
+#text {
+    width:980px;
+    height:auto;
+    font-family:'Century Gothic';
+    font-size:13px;
+    margin-bottom:10px;
+}
+
+#ticket {
+    width:980px;
+    height:auto;
+    font-family:'Century Gothic';
+    font-size:12px;
+    font-weight: bold;
+    font-style:italic;
+}
+
+#tedavi {
+    width:980px;
+    height:675px;
+}
+
+#tedavi1 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-top:20px;
+    
+}
+
+#tedavi2 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+
+}
+
+#tedavi3 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+#tedavi4 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-top:20px;
+}
+
+#tedavi5 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+
+}
+
+#tedavi6 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+#tedavi7 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-top:20px;
+}
+
+#tedavi8 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+
+}
+
+#tedavi9 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+#tedavi10 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-top:20px;
+}
+
+#tedavi11 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+
+}
+
+#tedavi12 {
+    width:313px;
+    height:147px;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+
+#degisim {
+    width:980px;
+    height:auto;
+}
